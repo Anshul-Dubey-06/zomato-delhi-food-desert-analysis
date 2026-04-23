@@ -1,0 +1,10 @@
+locality,total_restaurants,existing_cafes,existing_asian,avg_price,avg_rating,opportunity_score,top_recommendation
+Sector 29,58,1,1,1222,3.87,70.8,Open Asian or Cafe
+Cyber Hub,46,2,3,1285,4.1,59.1,Open Cafe
+Rajouri Garden,50,1,0,933,3.99,46.6,Open Asian
+Khan Market,26,3,2,1662,4.22,43.2,Open Asian
+Ambience Mall,36,2,2,1062,3.62,38.2,Open Cafe
+Hauz Khas,30,3,0,1245,4.01,37.4,Open Asian
+Punjabi Bagh,39,0,1,938,3.97,36.6,Open Cafe
+Dlf Mall Of India,39,3,3,788,3.95,30.8,Open Asian
+Greater Kailash 1 (Gk1),33,3,4,824,4.22,27.2,Open Continental
